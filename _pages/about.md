@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Who I Am"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -9,9 +9,9 @@ redirect_from:
 
 ![Neurosymbolic AI introduction](/images/Neurosymbolic AI.jpg){: .align-right width="300px"}
 
-I have a PhD degree in Computer Science from the school of Engineering in the Univervisty of Southern California (USC-Viterbi) and a M.Sc degree in Mechanical Engineering from the University of Texas at Dallas, with a focus on Autonomous systems and Control theory.
+I have a PhD degree in Computer Science from the school of Engineering in the Univervisty of Southern California (USC-Viterbi) and a M.Sc degree in Mechanical Engineering from the University of Texas at Dallas, with a focus on autonomous systems and control theory.
 
-My focus area is Control systems and Autonomy, Over the course of my M.Sc degree, I was working on the Safety analysis of Networked control system against sensor noise and anomalies and also control synthesis to satisfy safety properties. During my Ph.D degree I also integrated Signal Temporal Logics and Machine Learning (a combination that is called Neurosymbolic AI) in my study and provided scaling and novel techniques for safety verification of autonomous systems with respect to temporal tasks and also learning based control synthesis for an autonomous agents to satisfy temporal specifications.   
+My focus area is control theory and autonomy. Over the course of my M.Sc degree, I was working on the Safety analysis of Networked control system against sensor noise and anomalies and also control synthesis to satisfy safety properties. During my Ph.D degree I also integrated Signal Temporal Logics and Machine Learning (a combination that is called Neurosymbolic AI) in my study and provided scaling and novel techniques for safety verification of autonomous systems with respect to temporal tasks and also learning based control synthesis for an autonomous agents to satisfy temporal specifications.   
 
 
 # Selected Experience
