@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-![Neurosymbolic AI introduction](/images/quadrotor.jpg){: .align-right width="300px"}
+![Neurosymbolic AI introduction](/images/quadrotor.png){: .align-right width="300px"}
 
 I have a PhD degree in Computer Science from the school of Engineering in the Univervisty of Southern California (USC-Viterbi) and a M.Sc degree in Mechanical Engineering from the University of Texas at Dallas, with a focus on autonomous systems and control theory.
 
