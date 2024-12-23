@@ -17,15 +17,9 @@ My focus area is Control systems and Autonomy, Over the course of my M.Sc degree
 # Selected Experience
 
 ## Open Source Contribution
-I generated the first deterministic formal verification framework for Signal Temporal logics in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicodes/STLVerNN) that verifies general Temporal specifications for Learning enabled autonomous systems.
+I generated the first deterministic formal verification framework for temporal specifications in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicodes/STLVerNN) that verifies general Temporal specifications for Learning enabled autonomous control systems.
 
-I scaled the process of Neural Feedback Policy Learning for agents to satisfy Signal Temporal Logics specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic MBRL.
+I noticeably scaled the process of Neural Feedback control learning for agents to satisfy real-world scaled temporal specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic control synthesis, and have a noticeable contribution in autonomy.
 
 ## Research Outcomes
-I have published 4 jouranal papers and 15 conference papers focusing on Neurosymbolic Learning and Verification, CPS and Control Theory in reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicodes.github.io/publications/)   
-
-
-## Upcomming News
-1- My paper :  LB4TL: Smooth Semantics for Temporal Logic for Scalable Training of Neural Feedback Controllers.<br> has been published as an IFAC conference paper.<br>
-2- My paper :  Scaling Learning based Policy Optimization for Temporal Tasks via Dropout<br> has been accepted in ACM Tranactions of Cyber Physical Systems (TCPS 2024).<br>
-3- My paper :  Statistical Reachability Analysis of Stochastic Cyber-Physical Systems under Distribution Shift<br> has been accepted in IEEE Transactions on Computer-Aided Design of Integrated Circuits and Systems (TCAD 2024), and will be presented in ESWeek as a part of EMSOFT conference.<br>
+I have published 4 jouranal papers and 17 conference papers focusing on Neurosymbolic Learning and Verification, Autonomous Cyber Physical Systsems and Control Theory in reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicodes.github.io/publications/)   
