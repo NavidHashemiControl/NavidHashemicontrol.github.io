@@ -9,9 +9,10 @@ redirect_from:
 
 ![Neurosymbolic AI introduction](/images/Neurosymbolic AI.jpg){: .align-right width="300px"}
 
-I am a final-year PhD student in Computer Science at the University of Southern California School of Engineering (USC-Viterbi) , under the supervision of Professor Jyotirmoy Deshmukh.
+I have a PhD degree in Computer Science from the school of Engineering in the Univervisty of Southern California (USC-Viterbi) and a M.Sc degree in Mechanical Engineering from the University of Texas at Dallas, with a focus on Autonomous systems and Control theory.
 
-My research area lies at the intersection of Artificial Intelligence and Temporal Logics, with applications in Formal Verification of Learning Enabled Systems and Neurosymbolic Reinforcement Learning.
+My focus area is Control systems and Autonomy, Over the course of my M.Sc degree, I was working on the Safety analysis of Networked control system against sensor noise and anomalies and also control synthesis to satisfy safety properties. During my Ph.D degree I also integrated Signal Temporal Logics and Machine Learning (a combination that is called Neurosymbolic AI) in my study and provided scaling and novel techniques for safety verification of autonomous systems with respect to temporal tasks and also learning based control synthesis for an autonomous agents to satisfy temporal specifications.   
+
 
 # Selected Experience
 
