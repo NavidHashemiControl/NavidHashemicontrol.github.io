@@ -30,4 +30,4 @@ We presented an **End-to-End semidefinite programming** (convex optimization) fo
 Please feel free to visit my [github](https://github.com/Navidhashemicontrol) repository for my other open source contributions.
 
 ## Research Outcomes
-I have published 4 jouranal papers and 17 conference papers focusing on learning based neurosymbolic control synthesis and and its formal verification, safety analysis and safe design of autonomous cyber physical systsems and control theory in the most reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicontrol.github.io/publications/)   
+I have published 4 journal papers and 17 conference papers, focusing on learning-based neuro-symbolic control synthesis, formal verification, safety analysis, and the safe design of autonomous cyber-physical systems, as well as advancements in control theory. These works have been presented in prestigious IEEE and ACM journals and conferences. Feel free to explore my [publication list](https://navidhashemicontrol.github.io/publications/).
