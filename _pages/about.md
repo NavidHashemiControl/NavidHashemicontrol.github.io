@@ -17,11 +17,13 @@ My focus area is control theory and autonomy. Over the course of my M.Sc degree,
 # Selected Experience
 
 ## Selected Open Source Contributions
-I generated the first deterministic formal verification framework for temporal specifications in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicodes/STLVerNN) that verifies general Temporal specifications for Learning enabled autonomous control systems.
+We generated the first deterministic formal verification framework for temporal specifications in collaboration with research scientists of Toyota Research Institute North of America (TRINA) [STLVerNN](https://github.com/Navidhashemicontrol/STLVerNN) that verifies general Temporal specifications for Learning enabled autonomous control systems.
 
-I noticeably scaled the process of Neural Feedback control learning for agents to satisfy real-world scaled temporal specification [STL_dropout](https://github.com/Navidhashemicodes/STL_dropout). This was achieved by combination of stochastic depth (firstly proposed for ResNet) via Neurosymbolic control synthesis, and have a noticeable contribution in autonomy.
+We noticeably scaled the computational process of neural feedback control learning for agents to satisfy real-world scaled temporal specification [STL_dropout](https://github.com/Navidhashemicontrol/STL_dropout). This was achieved by combination of a regularization techniaue called stochastic depth (firstly proposed for ResNet) via neurosymbolic control synthesis, enabling us to train controllers for real-world scaled problems in autonomy.
+
+We extended one of the most popular recent techniques for Lipschitz constant analysis of neural networks, [LipSDP](https://proceedings.neurips.cc/paper/2019/hash/95e1533eb1b20a97777749fb94fdb944-Abstract.html), by reformulating it to provide tight and computationally efficient guarantees for local Lipschitz constants. We called this open source contribution [Local-LipSDP](https://github.com/NavidHashemiControl/Local_LipSDP_L4DC_2021). This technique significantly enhances the accuracy and scalability of robustness analysis for neural networks. Furthermore, we demonstrated the substantial contribution of this technique to the verification of autonomous systems operated by neural network controllers.
 
 Please feel free to visit my [github](https://github.com/Navidhashemicontrol) repository for my other open source contributions.
 
 ## Research Outcomes
-I have published 4 jouranal papers and 17 conference papers focusing on learning based neurosymbolic control synthesis and and its formal verification, safety analysis and safe design of autonomous cyber physical systsems and control theory in the most reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicodes.github.io/publications/)   
+I have published 4 jouranal papers and 17 conference papers focusing on learning based neurosymbolic control synthesis and and its formal verification, safety analysis and safe design of autonomous cyber physical systsems and control theory in the most reputable IEEE and ACM journals and conferences. Feel free to see my [publication entry](https://navidhashemicontrol.github.io/publications/)   
