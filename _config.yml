@@ -21,7 +21,7 @@ repository               : "NavidHashemiControl/NavidHashemiControl.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Navid_photo.jpg"
+  avatar           : "photo_Navid.jpg"
   name             : "Navid Hashemi"
   pronouns         : # example: "she/her"  
   bio              : "Neurosymbolic AI:<br>Artificial Intelligence + Temporal Logics"
