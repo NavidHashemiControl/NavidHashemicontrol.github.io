@@ -6,7 +6,7 @@ excerpt: ""
 date: 2023-12-13
 venue: '2023 62nd IEEE Conference on Decision and Control (CDC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/10384213'
-citation: 'Hashemi, Navid, et al. "Data-Driven Reachability Analysis of Stochastic Dynamical Systems with Conformal Inference." 2023 62nd IEEE Conference on Decision and Control (CDC). IEEE, 2023.'
+citation: 'Hashemi, Navid, Xin Qin, Lars Lindemann, and Jyotirmoy V. Deshmukh. "Data-driven reachability analysis of stochastic dynamical systems with conformal inference." In 2023 62nd IEEE Conference on Decision and Control (CDC), pp. 3102-3109. IEEE, 2023.'
 ---
 
 
