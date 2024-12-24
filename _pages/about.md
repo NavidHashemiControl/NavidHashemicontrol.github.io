@@ -32,7 +32,7 @@ $$
 constraint, while maintaining safety against sensor noise and anomalies. This open source contribution is available [here](https://github.com/NavidHashemiControl/Codesign_TCNS_2022).
 
 
-We noticeably improved the scalability and data efficiency of the stochastic reachability analysis for autonomous systems comparing to existing techniques in the literature. To that end we provided a learning based reachability analysis technique that obtains its formal guarantee from conformal inference. Please visit our open source contribution [DDReach](https://github.com/NavidHashemiControl/DDReach_MATLAB). The inclusion of conformal inference in the problem stochastic reachability analysis was the key tools to provide that improvement on the scalability and dataeffciency for stochastic reachability analysis.
+We significantly improved the scalability and data efficiency of stochastic reachability analysis for autonomous systems compared to existing techniques in the literature. To achieve this, we developed a learning-based reachability analysis method that derives its probabilistic formal guarantees from **conformal inference**. Please explore our open-source contribution, [DDReach](https://github.com/NavidHashemiControl/DDReach_MATLAB) for this purpose. The integration of conformal inference into stochastic reachability analysis was a key factor in enhancing both scalability and data efficiency.
 
 Please feel free to visit my [github](https://github.com/Navidhashemicontrol) repository for my other open source contributions.
 
