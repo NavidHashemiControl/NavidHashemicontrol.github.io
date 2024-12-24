@@ -10,4 +10,4 @@ location: "Raleigh, North Carolina"
 
 [More information here](https://www.sigbed.org/emsoft-info/confs/emsoft2024.html)
 
-This is a presentation where I am discussing our latest research on stochastic reachability analysis of autonomous systems.
+This is a presentation where I am discussing our latest research on stochastic reachability analysis of autonomous systems. We have shown a dramatic improvement in the computational-efficiency and data-efficiency of statistical reachability analysis.
