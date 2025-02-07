@@ -11,7 +11,7 @@ redirect_from:
 
 I have a PhD degree in Computer Science from the school of Engineering in the Univervisty of Southern California (USC-Viterbi) and a M.Sc degree in Mechanical Engineering from the University of Texas at Dallas, with a focus on autonomous systems and control theory.
 
-My focus area is control theory and autonomy. Over the course of my M.Sc degree, I was working on the safety analysis of cyber pgysical systems and networked control systems against sensor noise and anomalies and also control synthesis to satisfy safety properties. During my Ph.D degree I integrated Signal Temporal Logics (STL) and Machine Learning (a combination that is called Neurosymbolic AI) in my study and provided scaling and novel techniques for safety verification of autonomous systems with respect to temporal tasks and also learning based control synthesis for autonomous mobile systems to satisfy temporal specifications.   
+My focus area is control theory and autonomy. Over the course of my M.Sc degree, I was working on the safety analysis of cyber physical systems and networked control systems against sensor noise and anomalies and also control synthesis to satisfy safety properties. During my Ph.D degree I integrated Signal Temporal Logics (STL) and Machine Learning (a combination that is called Neurosymbolic AI) in my study and provided scaling and novel techniques for safety verification of autonomous systems with respect to temporal tasks and also learning based control synthesis for autonomous mobile systems to satisfy temporal specifications.   
 
 
 # Selected Experience
